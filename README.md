@@ -18,3 +18,4 @@ LLM Integration ([English](docs/llm/llm-integration.en.md), [Español](docs/llm/
 Development Conditions ([English](docs/meta/Copilot.md))
 
 For more details, check the documentation in the [docs](docs/) folder.
+- The [Notion Editor](docs/notion-editor.md) template demonstrates a Notion-style layout with a basic AI extension.
