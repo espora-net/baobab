@@ -10,6 +10,7 @@ Welcome to the documentation for the macOS editor. Below is a summary of the ava
 - [Package.json File](package-json.md)
 - [Splash Screen Functionality](splash-screen.md)
 - [Notion Editor](notion-editor.md)
+- [LLM Integration](llm/llm-integration.en.md)
 
 ## Documentation Structure
 
@@ -23,4 +24,5 @@ graph TD;
     A --> G[Package.json File];
     A --> H[Splash Screen Functionality];
     A --> I[Notion Editor];
+    A --> I[LLM Integration];
 ```
