@@ -16,3 +16,4 @@ GitHub Actions Release Workflow ([English](docs/release/github-release.en.md), [
 Development Conditions ([English](docs/meta/Copilot.md))
 
 For more details, check the documentation in the [docs](docs/) folder.
+- The [Notion Editor](docs/notion-editor.md) template demonstrates a Notion-style layout with a basic AI extension.

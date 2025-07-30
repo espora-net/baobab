@@ -1,6 +1,6 @@
 import { createRoot } from "react-dom/client"
 import { useState, useEffect } from "react"
-import { SimpleEditor } from "@/components/tiptap-templates/simple/simple-editor"
+import { NotionEditor } from "@/components/tiptap-templates/notion/notion-editor"
 import { SplashScreen } from "@/components/splash-screen/splash-screen"
 import { AppRegistry } from 'react-native';
 import { name as appName } from './app.json';
@@ -26,7 +26,7 @@ const App = () => {
   return (
     <>
       {showSplashScreen && <SplashScreen onComplete={handleSplashComplete} />}
-      {appReady && <SimpleEditor />}
+      {appReady && <NotionEditor />}
     </>
   );
 };
